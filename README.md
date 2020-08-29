@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello!
 
-<!--
-**beasleeps/beasleeps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amour.com).
 
-Here are some ideas to get you started:
+[![Bea's Github Stats](https://github-readme-stats.vercel.app/api?username=beasleeps)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you need a starter Discord Bot, I suggest my project [Quantum](https://github.com/beasleeps/quantumbot).
+
+> I'm currently working on NameMC's Discord Bot, coded with Discord.js.
+
+## Contact
+
+- My Discord: <img src="https://raw.githubusercontent.com/beasleeps/beasleeps/master/discord.svg" width="24px" align="top"> `bea#9999`
+- My Twitter: <img src="https://raw.githubusercontent.com/beasleeps/beasleeps/master/twitter.svg" width="24px" align="top"> [`17tragic`](https://twitter.com/17tragic)
+- My NameMC accounts: <img src="https://raw.githubusercontent.com/beasleeps/beasleeps/master/namemclogo.svg" width="24px" align="top"> [`Balte`](https://namemc.com/Balte.2) & [`eBea`](https://namemc.com/eBea.3)
+
