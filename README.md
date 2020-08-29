@@ -2,8 +2,8 @@
 
 My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amour.com).
 
-[![Bea's Github Stats](https://github-readme-stats.vercel.app/api?username=beasleeps)](https://github.com/anuraghazra/github-readme-stats)
-
+ [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beasleeps&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
 If you need a starter Discord Bot, I suggest my project [Quantum](https://github.com/beasleeps/quantumbot).
 
 > I'm currently working on NameMC's Discord Bot, coded with Discord.js.
