@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amour.com).
+My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
 
  
 If you need a starter Discord Bot, I suggest my project [Quantum](https://github.com/beasleeps/quantumbot).
