@@ -5,7 +5,7 @@ My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [A
  
 If you need a starter Discord Bot, I suggest my project [Quantum](https://github.com/beasleeps/quantumbot).
 
-> I'm currently working on the Amour Discord Bot, coded with Discord.js
+> I'm currently working on the Ichika Discord Bot, coded with Discord.js in TypeScript.
 
 ## Contact
 
