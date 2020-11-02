@@ -5,7 +5,7 @@ My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [A
  
 If you need a starter Discord Bot, I suggest my project [Quantum](https://github.com/beasleeps/quantumbot).
 
-> I'm currently working on the Amour Rewrite, coded in Discord.js with the Swift Framework.
+> I'm currently working on the Amour Rewrite, coded in Discord.js & Typescript.
 
 ## Contact
 
