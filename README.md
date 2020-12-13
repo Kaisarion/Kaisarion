@@ -3,7 +3,7 @@
 My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
 
  
-If you need a starter Discord Bot, I suggest my project [Quantum](https://github.com/beasleeps/quantumbot).
+If you need a starter Discord Bot, I suggest my project [Quantum](https://github.com/beasleeps/quantumbot). I'll be updating it soon, as its current code is an absolute nightmare.
 
 > I'm currently working on the Amour Rewrite, coded in Discord.js & Typescript.
 
