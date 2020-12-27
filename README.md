@@ -12,3 +12,5 @@ If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord b
 - My Discord: <img src="https://raw.githubusercontent.com/beasleeps/beasleeps/master/discord.svg" width="24px" align="top"> `Bea#0001`
 - My Twitter: <img src="https://raw.githubusercontent.com/beasleeps/beasleeps/master/twitter.svg" width="24px" align="top"> [`@qtmorals`](https://twitter.com/qtmorals)
 - My Website: [https://beasleeps.tech](https://beasleeps.tech)
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=beasleeps&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
