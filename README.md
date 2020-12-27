@@ -14,4 +14,4 @@ If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord b
 - My Website: [https://beasleeps.tech](https://beasleeps.tech)
 
 ![My Github Stats!](https://github-readme-stats.vercel.app/api?username=beasleeps&count_private=true&theme=cobalt)
-[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beasleeps&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beasleeps&layout=cobalt)](https://github.com/anuraghazra/github-readme-stats)
