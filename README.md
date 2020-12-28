@@ -3,7 +3,8 @@
 My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
 
  
-If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord bot in Discord.js.
+If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord bot in Discord.js. <br/>
+Additionally, if you want a Minecraft style starter Discord Bot, you can visit my project [NameMC Bot](https://github.com/beasleeps/namemcbot) <br/>
 
 > I'm currently finishing my college CS courses before continuing anything, and fixing any errors with [Amour](https://amourbot.com) on the side.
 
