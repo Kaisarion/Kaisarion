@@ -1,5 +1,11 @@
 # Hello!
 
+<div>
+  <p>
+    <a href="https://discord.gg/amour"><img src="https://discord.com/api/guilds/709794391950098484//embed.png" alt="Discord" /></a>
+  </p>
+</div>
+
 My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
 
  
