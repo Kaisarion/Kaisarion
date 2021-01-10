@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    <a href="https://discord.gg/amour"><img src="https://discord.com/api/guilds/709794391950098484/embed.png" alt="Discord" /></a>
+    <a href="https://discord.gg/frXBBaqrjD"><img src="https://discord.com/api/guilds/709794391950098484/embed.png" alt="Discord" /></a>
   </p>
 </div>
 
