@@ -16,7 +16,7 @@ Additionally, if you want a Minecraft style starter Discord Bot, you can visit m
 
 ## Contact
 
-- My Discord: <img src="https://raw.githubusercontent.com/zredrum/zredrum/master/discord.svg" width="24px" align="top"> `Bea#0001`
+- My Discord: <img src="https://raw.githubusercontent.com/zredrum/zredrum/master/discord.svg" width="24px" align="top"> `REDRUM#0001`
 - My Twitter: <img src="https://raw.githubusercontent.com/zredrum/zredrum/master/twitter.svg" width="24px" align="top"> [`@17tragic`](https://twitter.com/17tragic)
 - My Website: [https://beasleeps.tech](https://beasleeps.tech)
 - Email Me! <img src="https://raw.githubusercontent.com/zredrum/zredrum/master/MailIOS.svg" width="24px" align="top"> [bea@beasleeps.tech](mailto:bea@beasleeps.tech)
