@@ -6,6 +6,8 @@
   </p>
 </div>
 
+[![Crowdin](https://badges.crowdin.net/amour/localized.svg)](https://crowdin.com/project/amour)
+
 My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
 
  
