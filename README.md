@@ -14,7 +14,7 @@ My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [A
 If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord bot in Discord.js. <br/>
 Additionally, if you want a Minecraft style starter Discord Bot, you can visit my project [NameMC Bot](https://github.com/zredrum/namemcbot) <br/>
 
-> I'm currently not developing as school is my main priority, but will be working on [Amour](https://amourbot.com) 3.0 in the next coming months, for release in July 2021.
+> I'm currently working on [Amour](https://amourbot.com) 3.0 for release in July 2021. If you'd like to help us translate the project to a foreign language, please visit our [Crowdin](https://crowdin.com/project/amour)
 
 ## Contact
 
