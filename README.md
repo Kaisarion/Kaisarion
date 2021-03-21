@@ -1,10 +1,4 @@
-# Hello!
-
-<div>
-  <p>
-    <a href="https://discord.gg/frXBBaqrjD"><img src="https://discord.com/api/guilds/709794391950098484/embed.png" alt="Discord" /></a>
-  </p>
-</div>
+<h2 align="center">Hey! 👋 I'm Bea 🪐</h3>
 
 <p align="center">
   <a href="https://discord.gg/frXBBaqrjD"><img src="https://discord.com/api/guilds/709794391950098484/embed.png" alt="Discord" /></a>
@@ -12,9 +6,8 @@
   <a href="https://discord.gg/frXBBaqrjD"><img src="https://img.shields.io/badge/Discord-REDRUM%200001-7289da?style=flat&logo=Discord"/></a>
   <a href="https://beasleeps.tech"><img src="https://img.shields.io/website?down_color=f5cdc4&down_message=offline&label=beasleeps.tech&up_color=c2f2ca&up_message=online&url=https%3A%2F%2Fbeasleeps.tech"/></a>
   <a href="mailto:bea@beasleeps.tech"><img src="https://img.shields.io/badge/-bea@beasleeps.tech-c14438?style=flat&logo=Gmail&logoColor=black&link=mailto:bea@beasleeps.tech"/></a>
+  <a href="https://translate.amourbot.com"><img src="https://badges.crowdin.net/amour/localized.svg"/></a>
 </p>
-
-[![Crowdin](https://badges.crowdin.net/amour/localized.svg)](https://crowdin.com/project/amour)
 
 My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
 
