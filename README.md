@@ -8,7 +8,8 @@
   <a href="mailto:bea@beasleeps.tech"><img src="https://img.shields.io/badge/-bea@beasleeps.tech-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:bea@beasleeps.tech"/></a>
 </p>
 
-My name is Bea, and I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
+- I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
+- I'm an Australian living in the United States, & a massive La Croix fan.
 
  
 If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord bot in Discord.js. <br/>
