@@ -1,14 +1,11 @@
 <h2 align="center">Hey! 👋 I'm Bea 🪐</h3>
 
 <p align="center">
-  <a href="https://discord.gg/frXBBaqrjD"><img src="https://discord.com/api/guilds/709794391950098484/embed.png" alt="Discord" /></a>
   <a href="https://paypal.me/beasleeps"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="Paypal" /></a>
-  <a href="https://twitter.com/18tragic"><img src="https://img.shields.io/badge/18tragic%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="https://discord.gg/frXBBaqrjD"><img src="https://img.shields.io/badge/Discord-REDRUM%200001-7289da?style=flat-square&logo=Discord"/></a>
   <a href="mailto:bea@beasleeps.tech"><img src="https://img.shields.io/badge/-bea@beasleeps.tech-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:bea@beasleeps.tech"/></a>
 </p>
 
-- I'm mainly a Discord Bot Developer. I own the Discord Bot [Amour](https://amourbot.com).
+- I'm a Full-Stack Developer & Medicine student. I own the Discord Bot [Amour](https://amourbot.com).
 - I'm an Australian living in the United States, & a massive La Croix fan.
 
  
