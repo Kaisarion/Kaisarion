@@ -1,10 +1,5 @@
 <h2 align="center">Hey! 👋 I'm Bea 🪐</h3>
 
-<p align="center">
-  <a href="https://paypal.me/beasleeps"><img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" alt="Paypal" /></a>
-  <a href="mailto:bea@beasleeps.tech"><img src="https://img.shields.io/badge/-bea@beasleeps.tech-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:bea@beasleeps.tech"/></a>
-</p>
-
 - I'm a Full-Stack Developer & Medicine student. I own the Discord Bot [Amour](https://amourbot.com).
 - I'm an Australian living in the United States, & a massive La Croix fan.
 
