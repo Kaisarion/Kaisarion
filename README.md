@@ -1,4 +1,6 @@
-<h2 align="center">Hey! 👋 I'm Bea 🪐</h3>
+<h2 align="center">Hey! 👋 I'm Bea 🪐</h2>
+<h3 align="center">AMOUR 2.0 WEBSITE NOW OUT! https://amourbot.com</h3>
+
 
 - I'm a Full-Stack Developer & Medicine student. I own the Discord Bot [Amour](https://amourbot.com).
 - I'm an Australian living in the United States, & a massive La Croix fan.
