@@ -1,6 +1,11 @@
 <h2 align="center">Hey! 👋 I'm Bea 🪐</h2>
 <h3 align="center">AMOUR 3.2 NOW OUT! NEW FEATURES, NEW V13! https://amourbot.com</h3>
 
+<div align="center">
+  <a href="https://discord.com/users/679033218971861010" >
+    <img src="https://lanyard-profile-readme.vercel.app/api/679033218971861010"  />
+  </a>
+</div>
 
 - I'm a Full-Stack Developer & Medicine student. I own the Discord Bot [Amour](https://amourbot.com).
 - I'm an Australian living in the United States, & a massive La Croix fan.
