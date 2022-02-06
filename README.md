@@ -1,13 +1,7 @@
 <h2 align="center">Hey! 👋 I'm Bea 🪐</h2>
 <h3 align="center">AMOUR 3.2 NOW OUT! NEW FEATURES, NEW V13! https://amourbot.com</h3>
 
-<div align="left">
-  <a href="https://discord.com/users/679033218971861010" >
-    <img src="https://lanyard-profile-readme.vercel.app/api/679033218971861010"  />
-  </a>
-</div>
-
-
+<img width="50%" align="left" src="https://lanyard-profile-readme.vercel.app/api/679033218971861010">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=kaisarion&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisarion&theme=dracula&hide_border=true&layout=compact">
 
