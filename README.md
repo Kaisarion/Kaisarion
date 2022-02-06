@@ -6,7 +6,7 @@
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaisarion&theme=dracula&hide_border=true&layout=compact">
 
 - I'm a Full-Stack Developer & Medicine student. I own the Discord Bot [Amour](https://amourbot.com).
-- I'm an Australian living in the United States, & a massive La Croix fan.
+- I'm an Australian living in the United States, & a massive Spindrift addict.
 - As well as lurking on GitHub repos and filing pull requests, you can normally find me updating
 [Amour Docs](https://docs.amourbot.com) and localizing projects on [Crowdin](https://crowdin.com).
 <br/><br/><br/><br/><br/><br/>
