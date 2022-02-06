@@ -7,7 +7,8 @@
 
 - I'm a Full-Stack Developer & Medicine student. I own the Discord Bot [Amour](https://amourbot.com).
 - I'm an Australian living in the United States, & a massive La Croix fan.
-<br/><br/><br/><br/><br/><br/><br/>
+- As well as lurking on GitHub repos and filing pull requests, I have experience in localization and linux networking.
+<br/><br/><br/><br/><br/><br/>
  
 If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord bot in Discord.js. <br/>
 Additionally, if you want a Minecraft style starter Discord Bot, you can visit my project [NameMC Bot](https://github.com/zredrum/namemcbot) <br/>
