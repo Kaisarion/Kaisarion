@@ -1,5 +1,5 @@
 <h2 align="center">Hey! 👋 I'm Bea 🪐</h2>
-<h3 align="center">AMOUR 4.0 OUT SOON! NEW FEATURES, NEW V13! https://amourbot.com</h3>
+<h3 align="center">AMOUR 4.0 OUT NOW! NEW FEATURES, NEW V13! https://amourbot.com</h3>
 
 <img width="50%" align="left" src="https://lanyard-profile-readme.vercel.app/api/679033218971861010">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=kaisarion&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true">
@@ -12,9 +12,9 @@
 <br/><br/><br/><br/><br/><br/>
  
 If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord bot in Discord.js. <br/>
-Additionally, you can view example bots, [NameMC Bot](https://github.com/zredrum/namemcbot) & [AverageMod](https://github.com/Kaisarion/AverageMod)<br/>
+Additionally, you can view example bots, [NameMC Bot](https://github.com/Kaisarion/namemcbot) & [AverageMod](https://github.com/Kaisarion/AverageMod)<br/>
 
-> [Amour](https://amourbot.com) 4.0 is currently in the works, to include slash commands and QOL updates. It it set to release on March 31.
+> I'm currently on business, so I'm idle focusing on life. Still reachable though!
 
 ## Knowledge
 <p align="left">
