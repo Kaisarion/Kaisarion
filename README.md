@@ -1,5 +1,5 @@
 <h2 align="center">Hey! 👋 I'm Krim 🪐</h2>
-<h3 align="center">AMOUR 5.0 OUT 1/9! NEW FEATURES, NEW V14! https://amourbot.com</h3>
+<h3 align="center">AMOUR 5.0 OUT NOW - NEW FEATURES, NEW V14! https://amourbot.com</h3>
 
 <img width="50%" align="left" src="https://lanyard-profile-readme.vercel.app/api/679033218971861010">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=kaisarion&count_private=true&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true">
@@ -14,7 +14,7 @@
 If you need a starter Discord Bot, I'll be re-posting Quantum, my base Discord bot in Discord.js. <br/>
 Additionally, you can view example bots, [NameMC Bot](https://github.com/Kaisarion/namemcbot) & [AverageMod](https://github.com/Kaisarion/AverageMod)<br/>
 
-> I'm currently hard at work on Amour version 5.0, with 5.1 soon to follow :D
+> I'm currently hard at work on Amour version 5.1 :D
 
 ## Knowledge
 <p align="left">
